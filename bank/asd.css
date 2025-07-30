@@ -1,0 +1,103 @@
+body {
+	background-color: #D5B56E;
+}
+
+h1{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	border-bottom: 5px solid white;
+}
+
+h1:hover{
+	color: #FFD700;
+}
+
+table {
+	border: 10px double white;
+	margin: auto;
+	border-collapse: collapse;
+	min-width: 600px;
+	min-height: 60px;
+}
+
+th {
+	color: black;
+	font-weight: 700;
+	font-size: 22px;
+	border: 5px solid white;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+td {
+	color: black;
+	font-size: 15px;
+	border: 5px solid white;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.link {
+	color: black;
+	font-size: 22px;
+
+}
+
+.link:hover{
+	color:brown;
+}
+
+#adatok {
+	border-left: 10px double white;
+	border-right: 10px double white;
+}
+h2{
+	color: black;
+	margin-left: 25%;
+	font-size: 30px;
+}
+
+label{
+	font-size: 20px;
+	color: black;
+	font-weight: 700; 
+	margin-left:20%;
+	margin-bottom: 10px;
+	min-width: 200px;
+	display: inline-block;
+}
+
+input {
+	font-size: 20px;
+	margin: 10px;
+	border: 3px solid white;
+	background-color: transparent; 
+}
+
+select {
+		background-color: transparent;
+		font-size: 20px;
+		border-radius: 12px;
+		border: 3px solid white;
+}
+
+.gomb {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 20%;
+	border-radius: 12px;
+	border: 3px solid white;
+	background-color: transparent;
+}
+
+.gomb:hover{
+	color: brown;
+	background-color:white;
+}
+
+h3 {
+	color: black;
+	font-size: 30px;
+	text-align: center;
+}
